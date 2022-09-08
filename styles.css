@@ -52,7 +52,8 @@ a {
   text-decoration: none;
   margin-top: -4rem;
 }
-footer p {
+.espaçar {
+  margin-top: 10rem;
   text-align: start;
   font-size: 1rem;
 }
